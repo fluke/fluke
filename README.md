@@ -6,10 +6,10 @@ I build Shopify apps. I'm co-founder and CTO of [Artos Software](https://artosso
 - **[Filemonk](https://filemonk.io)**: digital downloads for Shopify.
 - **[Invoice Falcon](https://invoicefalcon.com)**: invoices and packing slips for Shopify.
 
-Mostly Ruby on Rails, with React on the front and a bit of Elixir where it earns its place. Lately a lot of Shopify Events, the Storefront API and keeping a Rails app happy at scale.
+Mostly Ruby on Rails, with React on the front.
 
 Before this I co-founded [Jobspire](https://fluke.md/jobspire/) in college and led engineering teams at CoLearn, Reflektive and LetsVenture.
 
-**Writing:** [fluke.md/writing](https://fluke.md/writing/), most recently [Shopify Events: only hearing about the updates you care about](https://fluke.md/writing/shopify-events-filters/).
+**Writing:** [fluke.md/writing](https://fluke.md/writing/)
 
 **Elsewhere:** [fluke.md](https://fluke.md) · [X](https://x.com/0xfluke) · [LinkedIn](https://www.linkedin.com/in/kartikluke/)
