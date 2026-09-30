@@ -10,6 +10,6 @@ Mostly Ruby on Rails, with React on the front.
 
 Before this I co-founded [Jobspire](https://fluke.md/jobspire/) in college and led engineering teams at CoLearn, Reflektive and LetsVenture.
 
-**Writing:** [fluke.md/writing](https://fluke.md/writing/)
+**Writing:** [fluke.md/writing](https://fluke.md/writing/), most recently [Shopify Events: only hearing about the updates you care about](https://fluke.md/writing/shopify-events-filters/).
 
 **Elsewhere:** [fluke.md](https://fluke.md) · [X](https://x.com/0xfluke) · [LinkedIn](https://www.linkedin.com/in/kartikluke/)
